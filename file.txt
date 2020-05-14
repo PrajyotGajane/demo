@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This file was created in dev
 =======
 created in dev branch
 change in dev
+>>>>>>> dev
+=======
+new file in dev
+this file is updated in dev
 >>>>>>> dev
